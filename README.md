@@ -9,11 +9,3 @@ CV Maker is a Java-based application that simplifies the process of creating pro
 - **Downloadable CV**: Once the CV is generated, users can download it directly to their system in various formats such as PDF or Word.
 - **Java-based**: The application is built using Java, making it platform-independent and easy to run on any system with Java installed.
 
-## Getting Started
-
-To run CV Maker on your local machine, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Make sure you have Java installed on your system.
-3. Navigate to the project directory in your terminal.
-4. Compile the Java files using the following command:
