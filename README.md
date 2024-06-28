@@ -12,10 +12,10 @@ CV Maker is a Java-based application that simplifies the process of creating pro
 ## Screenshots
 
 ### Main Interface
-![Main Interface](images/1.png)
+![Main Interface](images/2.png)
 
 ### CV Input Form
-![CV Input Form](path/to/your/image2.png)
+![CV Input Form](images/3.png)
 
 ### Generated CV
 ![Generated CV](path/to/your/image4.png)
