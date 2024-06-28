@@ -16,6 +16,8 @@ CV Maker is a Java-based application that simplifies the process of creating pro
 
 ### CV Input Form
 ![CV Input Form](images/3.png)
+![CV Input Form](images/1.png)
+![CV Input Form](images/4.png)
 
 ### Generated CV
 ![Generated CV](path/to/your/image4.png)
