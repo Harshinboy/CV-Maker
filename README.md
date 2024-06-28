@@ -9,3 +9,15 @@ CV Maker is a Java-based application that simplifies the process of creating pro
 - **Downloadable CV**: Once the CV is generated, users can download it directly to their system in various formats such as PDF or Word.
 - **Java-based**: The application is built using Java, making it platform-independent and easy to run on any system with Java installed.
 
+## Screenshots
+
+### Main Interface
+![Main Interface](images/1.png)
+
+### CV Input Form
+![CV Input Form](path/to/your/image2.png)
+
+### Generated CV
+![Generated CV](path/to/your/image4.png)
+
+
